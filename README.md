@@ -127,7 +127,7 @@ Las gráficas resultantes se guardarán en `docs/figures/`.
 
 | Rol | Responsable | Área Principal de Trabajo |
 | :--- | :--- | :--- |
-| **1. Algoritmos & Convoluciones** | [Persona 1] | `src/filters.c` — Optimización y validación matemática de filtros. |
-| **2. Concurrencia & Memoria** | [Persona 2] | `src/pipeline.c` — Balanceo OpenMP, barreras y control de contención. |
-| **3. Benchmarking & Métricas** | [Persona 3] | `scripts/benchmark.py` — Pruebas con dataset masivo y Ley de Amdahl. |
-| **4. Integración & Reporte** | [Persona 4] | `docs/reporte_tecnico.md` — Redacción final, diagramas y entrega. |
+| **1. Algoritmos & Convoluciones** | Misael Reynoso | `src/filters.c` — Optimización y validación matemática de filtros. |
+| **2. Concurrencia & Memoria** | Christian Luna | `src/pipeline.c` — Balanceo OpenMP, barreras y control de contención. |
+| **3. Benchmarking & Métricas** | Irais Macuil | `scripts/benchmark.py` — Pruebas con dataset masivo y Ley de Amdahl. |
+| **4. Integración & Reporte** | Camila Serrano | `docs/reporte_tecnico.md` — Redacción final, diagramas y entrega. |
